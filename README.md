@@ -1,2 +1,4 @@
 # FaceMask-Detection
-Face Mask detection using deep learning algorithm CNN and libraries OpenCV and Keras
+----
+
+- Face Mask Detection using OpenCV and Keras
